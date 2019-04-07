@@ -8,3 +8,10 @@
 
 変更後にすること
 tower→comit→push
+
+Projectの開き方
+①ターミナルを開く
+②自分の開きたいProjectに移動する
+③開きたいエディタ＋スペース＋.
+ ex)atomで開く場合
+ 　atom .
