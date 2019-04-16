@@ -12,3 +12,26 @@
 
 
 # コンピュータの操作の仕方
+# キーボードショートカット  
+・command + a :全選択  
+・command + / :コメントアウト  
+・command + c :コピー  
+・command + v :ペースト  
+・command + x :切り取り  
+・command + z :元に戻す  
+・command + shift + z :やり直す  
+・command + w : ウィンドウやアプリを閉じる  
+・command + q : ウィンドウやアプリを終了する    
+・command + s :保存    
+・command + shift + s :別名で保存    
+・command + m :Dockでしまう    
+・command + tab :ウィンドウの切り替え    
+・command + n :新規ウィンドウを開く    
+・command + shift +n :新規フォルダを開く    
+・command + r :ページや情報を更新  
+・command + shift + 3 :画面全体のスクリーンショットを撮影  
+・command + shift + 4 :特定エリアのスクリーンショットを撮影  
+・command + o :ファイルを開く  
+・command + delete :ファイルをゴミ箱に移動  
+・command + t :新規タブを開く  
+・command + alt/option + esc ;:アプリケーションを強制終了  
