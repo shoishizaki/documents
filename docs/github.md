@@ -31,3 +31,9 @@ githab
 　elif OKなら  
 　　　　Merge pull request→Towerでpullする  
 ＊使い終わったbranchは削除する   
+
+# 既存のファイルをgitにあげるとき  
+　①git init : gitの初期設定をする。 .gitのファイルが作成される。  
+　②git add : gitに追加。　localにあるものをgit localに上げる。  
+　③git commit -m "コメント" : gitに確定する。gitのサーバーに上げる準備をする。  
+　④git remote add origin _________ : _________に紐ずける。  
