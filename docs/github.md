@@ -1,6 +1,6 @@
 # New Project の作成
 方法  
-①githabを開く  
+①githubを開く  
 ②Repositries→New→URLコピー  
 ③tower→左下の＋→clone Git Repository  
 ④ターミナル→作ったProjectの場所に移動→開く  
@@ -21,7 +21,7 @@ tower
 ①Create New Branch from master  
 ②HEADを移す  
 ③変更する→commitする→pushする  
-githab  
+github  
 ④Compare & pull request  
 ⑤Reviewersを設定する→commentを入れる  
 ⑥Create pull requests  
@@ -32,8 +32,12 @@ githab
 　　　　Merge pull request→Towerでpullする  
 ＊使い終わったbranchは削除する   
 
+# githubでリポジトリの作成を行いlocalにcloneを行うとき
+①リモートリポジトリにあるclone or downloadボタンを押し、リモートリポジトリurlをコピーする。  
+②ターミナルからローカルリポジトリを設置したいディレクトリに移動して、コマンドでリモートレポジトリをクローンする。  →git clone git@github.com:<account name>/class-material-github.git  
+
 # 既存のファイルをgitにあげるとき  
-　①git init : gitの初期設定をする。 .gitのファイルが作成される。  
-　②git add : gitに追加。　localにあるものをgit localに上げる。  
-　③git commit -m "コメント" : gitに確定する。gitのサーバーに上げる準備をする。  
-　④git remote add origin _________ : _________に紐ずける。  
+①git init : gitの初期設定をする。 .gitのファイルが作成される。  
+②git add : gitに追加。　localにあるものをgit localに上げる。  
+③git commit -m "コメント" : gitに確定する。gitのサーバーに上げる準備をする。  
+④git remote add origin _________ : _________に紐ずける。  
