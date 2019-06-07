@@ -28,3 +28,25 @@
 
 ## manage.py
   This is a Python script that we will use a lot. It will be associates with many commands as we build our web app!  
+
+# アプリ内ファイル
+## __init__.py
+  This is a blank Python script that due to its special name let’s Python know that this directory can be treated as a package  
+
+## admin.py
+  You can register your models here which Django will then use them with Django’s admin interface.  
+
+## apps.py
+  Here you can place application specific configurations  
+
+## models.py
+  Here you store the application’s data models  
+
+## tests.py
+Here you can store test functions to test your code  
+
+## views.py
+  This is where you have functions that handle requests and return responses  
+
+## Migrations folder
+  This directory stores database specific information as it relates to the models  
