@@ -1,3 +1,5 @@
+# うまく使えば便利だが、下手に使うとprojectを壊してしまうので気をつけよう！！
+
 # New Project の作成
 方法  
 ①githubを開く  
@@ -43,4 +45,4 @@ github
 ④git remote add origin _________ : _________に紐ずける。  
 
 # githubのforkとは
-  Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project. 
+  Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project.
