@@ -50,3 +50,8 @@ Here you can store test functions to test your code
 
 ## Migrations folder
   This directory stores database specific information as it relates to the models  
+
+# モデルの変更を行うための３ステップガイド
+・モデルを変更する（models.pyの中の）  
+・これらの変更のためのマイグレーションを作成するために python manage.py makemigrations を実行します。  
+・データベースにこれらの変更を適用するために python manage.py migrate を実行します。  
