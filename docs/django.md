@@ -59,7 +59,7 @@ Here you can store test functions to test your code
 # render()
 render(request, template_name, context=None, content_type=None, status=None, using=None)  
 Combines a given template with a given context dictionary and returns an HttpResponse object with that rendered text.  
-##Required arguments¶
+## Required arguments
 request  
 The request object used to generate this response.  
 template_name  
