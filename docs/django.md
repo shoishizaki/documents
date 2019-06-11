@@ -55,3 +55,12 @@ Here you can store test functions to test your code
 ・モデルを変更する（models.pyの中の）  
 ・これらの変更のためのマイグレーションを作成するために python manage.py makemigrations を実行します。  
 ・データベースにこれらの変更を適用するために python manage.py migrate を実行します。  
+
+# render()
+render(request, template_name, context=None, content_type=None, status=None, using=None)  
+Combines a given template with a given context dictionary and returns an HttpResponse object with that rendered text.  
+##Required arguments¶
+request  
+The request object used to generate this response.  
+template_name  
+The full name of a template to use or sequence of template names. If a sequence is given, the first template that exists will be used.   
