@@ -43,6 +43,8 @@ github
 ②git add : gitに追加。　localにあるものをgit localに上げる。  
 ③git commit -m "コメント" : gitに確定する。gitのサーバーに上げる準備をする。  
 ④git remote add origin _________ : _________に紐ずける。  
+  tower
+  add repositoryでtower上にrepositoryを作成する
 
 # githubのforkとは
   Creating a “fork” is producing a personal copy of someone else’s project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project.
